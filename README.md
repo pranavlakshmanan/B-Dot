@@ -9,3 +9,6 @@ axes of inertia there by controlling angular velocity.
 This controller takes into account all the ferromagnetic properties as well as the actual rod dimensions into account.
 
 A reduction from 30 rad/s to 2 rad/s is achieved.
+
+work done as part of the Parikshit Student Satellite Team , MIT Manipal
+
