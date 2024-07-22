@@ -1,5 +1,4 @@
 
-%Date-11/2/24
 %Ur(mu-r) for SS-430FR = 1450 
 % We take radius=2.75mm to 3.5mm=r
 % Thereby number of turns=1232-670=N
